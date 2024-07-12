@@ -1,4 +1,4 @@
-# Project-Starter
+# EXZBT - Secure Video Sharing Platform.
 
 AWS Link : https://master.d3vh5uuybzglfb.amplifyapp.com/ 
 
@@ -17,10 +17,10 @@ Here are some things to keep in mind on this project.
 
   - Does the change have unit test coverage?
 
-```
+## INSTALLATION AND SETUP
 
-# INSTALLATION AND SETUP
 Our system has two versions. The fully deployed system on the cloud is available at https://master.d3vh5uuybzglfb.amplifyapp.com/. In the case of the local system and for your personal use, please follow these steps below. 
+
 •	Visit our repository at https://github.com/COSC-499-W2023/year-long-project-team-12. The official branch with the latest release is the master branch. 
 
 •	Before cloning the application, ensure you have installed docker desktop. For Mac and PCs, please visit https://www.docker.com/products/docker-desktop/. 
